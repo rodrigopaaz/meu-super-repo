@@ -1,5 +1,8 @@
 - Unix
 - Bash
 - Gi
+Redux
+REACT
 Inteligencia Emociona
 Html
+
